@@ -18,3 +18,6 @@
 
 ### Demo Fetch API
 https://codesandbox.io/s/thailand-province-demo-api-k3st7
+
+### Bethezank Added
+- จังหวัดแบ่งตามหลัก CPAC
